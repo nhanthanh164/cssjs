@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/8jfbXM' target='_blank'><img src='https://1.bp.blogspot.com/-SdA-qlLtpaE/WlNcY48GlfI/AAAAAAAACcs/xaqzYRRbRL4Q2PVlEEpIGbfSu9rPYmNiwCLcBGAs/s1600/Hoang-Long-2-.jpg' width='500px'/><br/> Chuyên cung cấp Thùng carton- Liên hệ: 0901 879 279 </a>. Chất lượng ổn định- Giá cả cạnh tranh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/8jfbXM' target='_blank'><img src='https://1.bp.blogspot.com/-SdA-qlLtpaE/WlNcY48GlfI/AAAAAAAACcs/xaqzYRRbRL4Q2PVlEEpIGbfSu9rPYmNiwCLcBGAs/s320/Hoang-Long-2-.jpg' width='500px'/><br/> Chuyên cung cấp Thùng carton- Liên hệ: 0901 879 279 </a>. Chất lượng ổn định- Giá cả cạnh tranh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
